@@ -19,5 +19,8 @@
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "vitest.disableWorkspaceWarning": true
+  "vitest.disableWorkspaceWarning": true,
+  "editor.formatOnSave": true,
+  "editor.mouseWheelZoom": true,
+  "editor.formatOnPaste": true
 }
